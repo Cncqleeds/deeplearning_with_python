@@ -2,8 +2,10 @@
 deep learning python version
 
 image classification with mnist datasets  
-下面就各个文件做简要说明  
-mnist_softmax.py 用softmax作为分类方法  
+
+
+## 下面就各个文件做简要说明  
+mnist_softmax.py 用softmax作为分类方法 
 mnist_fnn.py 用全连接神经网络作为分类方法    
 mnist_cnn.py 用卷积神经网络作为分类方法  
 mnist_cnn_tensorboard.py 用 tensorboard 可视化 scalar, Graph, Histogram   
